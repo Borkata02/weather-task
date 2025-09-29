@@ -30,3 +30,4 @@ print(f"Coldest city: {coldest_city} ({temps[coldest_city]} °C)")
 print(f"Average temperature: {average_temp:.2f} °C")
 
 
+
