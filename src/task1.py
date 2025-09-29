@@ -31,3 +31,4 @@ print(f"Average temperature: {average_temp:.2f} °C")
 
 
 
+
